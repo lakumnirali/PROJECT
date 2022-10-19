@@ -132,5 +132,16 @@ font-family: "DM Sans";
 }
 .group2{
     background-color: #115b8f;
+bottom: 10px;}
+.text2 p{
+    font-size: 48px;
+letter-spacing: -2px;
+/* line-height: 111px; */
+color: #e9e8d9;
+font-weight: 400;
+font-family: "Old Standard TT";
+text-align: center;
 }
-
+.img1{
+    bottom: 5px;
+}
