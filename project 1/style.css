@@ -141,7 +141,23 @@ color: #e9e8d9;
 font-weight: 400;
 font-family: "Old Standard TT";
 text-align: center;
+text-decoration: underline solid 1px;
+text-underline-offset: 10px;
+
+}
+.text2 h3{
+    font-size: 26px;
+letter-spacing: -1px;
+line-height: 44px;
+color: #e9e8d9;
+font-weight: 500;
+font-family: "DM Sans";
+text-align: center;
 }
 .img1{
-    bottom: 5px;
+     display: flex;
+     justify-content:end;
+     justify-content: space-around;
+     
 }
+
