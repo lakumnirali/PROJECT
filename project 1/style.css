@@ -84,7 +84,6 @@ line-height: 44px;
 color: #0b5e98;
 font-weight: 500;
 font-family: "DM Sans";
-text-align: center;
 margin-top:200px;
 }
 .textjustify{
@@ -136,28 +135,39 @@ bottom: 10px;}
 .text2 p{
     font-size: 48px;
 letter-spacing: -2px;
-/* line-height: 111px; */
+line-height: 65px; 
 color: #e9e8d9;
 font-weight: 400;
 font-family: "Old Standard TT";
 text-align: center;
 text-decoration: underline solid 1px;
-text-underline-offset: 10px;
+text-underline-offset: 20px;
 
 }
 .text2 h3{
     font-size: 26px;
 letter-spacing: -1px;
-line-height: 44px;
+line-height: 62px;
 color: #e9e8d9;
 font-weight: 500;
 font-family: "DM Sans";
 text-align: center;
 }
+.h3what{
+    margin-top: 111px;
+}
+.psocial{
+    margin-top: 90px;
+}
 .img1{
-     display: flex;
-     justify-content:end;
-     justify-content: space-around;
-     
+    
+    display: flex;
+    flex-direction: column-reverse;
+  
+}
+.img2{
+    display: flex;
+    flex-direction: column;
+   
 }
 
