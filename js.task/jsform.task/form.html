@@ -29,30 +29,30 @@
             </tr>
             <tr>
                 <td>NAME:</td>
-                <td><input type="text" id="Name" value="typ your name">
+                <td><input type="text" id="Name" value="typ your name" required>
                 </td>
             </tr>
             <tr>
                 <td>BIRTH DATE:</td>
-                    <td><input type="date" id="Name" value="DATE"></td>
+                    <td><input type="date" id="Name" value="DATE" required></td>
                 </tr>
             </tr>
             <tr>
                 <td>ADDRESS</td>
-                <td><textarea name="" id="" cols="5" rows="2" style="width: 9px; height: 40px;"></textarea></td>
+                <td><textarea name="" id="" cols="5" rows="2" style="width: 9px; height: 40px;" required></textarea></td>
             </tr>
             <tr>
-                
-                <td><label for="">Gender</label></td>
-                    <td>
-                        <input type="radio" checked name="gender" value="Male" id="Male"> <label for="Male">Male</label>
-                        <input type="radio" name="gender" value="Female" id="Female"><label for="Female">Female</label>
-                    </td>
+                     <td>mobile no.</td>
+                 <input type="tel" onkeypress="return (event.which >= 48 && event.which <= 57)" name="mobile" id="mobile" required> <span>*</span>
+   
             </tr>
             <tr>
-                <td>e mail</td>
-                <td><input type="email" id="email" value="">
-                </td>
+                <td>email</td>
+                <td><input type="email" onkeyup="checkemail(this)" name="email" id="email" required> <span id="emailError">*</span>
+            </td>
+            </tr>
+            <tr>
+                <td><button>submit</button></td>
             </tr>
         </table>
 </form>
