@@ -117,7 +117,9 @@ border-color:transparent;
 }
 .break{
     border:none;
+    width: 1380px;
     height: 2px;
+    margin: 0 auto;
     background-color:#115b8f ;
 }
 .align-text{
@@ -130,9 +132,15 @@ font-weight: 500;
 font-family: "DM Sans";
 }
 .group2{
+    width: 1380px;
     background-color: #115b8f;
-bottom: 10px;}
+bottom: 10px;
+margin: 0 auto;
+
+}
 .text2 p{
+   
+
     font-size: 48px;
 letter-spacing: -2px;
 line-height: 65px; 
@@ -145,7 +153,7 @@ text-underline-offset: 20px;
 
 }
 .text2 h3{
-    font-size: 26px;
+   font-size: 26px;
 letter-spacing: -1px;
 line-height: 62px;
 color: #e9e8d9;
@@ -159,28 +167,29 @@ text-align: center;
 .psocial{
     margin-top: 105px;
     width: 500px;
+    margin-left: 74px;
+    margin-bottom: 300px;
 }
 .img1{
-    
     display: flex;
     flex-direction: column-reverse;
     width: 287px;
-    margin: 460px 98px 79px 0px;
-  
+    /* margin-right: 72px; */
+    /* margin: 460px 98px 79px 0px; */
+  margin-bottom: 90px;
 }
 .img2{
     display: flex;
     flex-direction: column;
     width: 287px;
-    margin-top: 69px;
-    margin-left: 107px;
-}
-.group3{
-    background-color: #eae8d7;
+    margin-top: 75px;
+    margin-left: 72px;
 }
 .break2{
     border:none;
     height: 2px;
+    width: 1380px;
+    margin: 0 auto;
     background-color:#115b8f ;
     margin-top: 55px;
 }
@@ -196,10 +205,58 @@ text-align: center;
 .featured{
     color: #355e98;
     text-align: center;
-    margin-right: 310px;
+    margin-right: 275px;
     margin-top: 105px;
-    margin-bottom: -28px;
+    margin-bottom: -33px;
 }
+.group3 {
+    width: 1380px;
+    margin: 0 auto;
+    /* display: flex; */
+    background-color: #eae8d7;
+}
+.g3part{
+    display: flex;
+}
+.img1-2{
+    flex-direction: column-reverse;
+    width: 50%;
+    margin-right: 40px;
+    margin-top: 51px;
+    /* margin: 46px; */
+}
+.img3-4{
+    flex-direction: column;
+    width: 50%;
+    margin-left: 40px ;
+    margin-top: 200px;
+
+}
+.textg3{
+ text-align: center;
+ font-size: 33px;
+letter-spacing: -1px;
+line-height: 30px;
+color: #355e98;
+font-weight: 400;
+font-family: "Old Standard TT";
+margin: 6px 0px 45px 0px; 
+padding: 16px;
+ border-bottom: 1px solid  #355e98;  
+}
+.button{
+    width: 126px;
+/* height: 33px; */
+border-radius: 16px;
+background-color: #345c90;
+border: 2px solid transparent;
+margin: 0 auto;
+text-align: center;
+color: white;
+font-size: 18px;
+align-items: center;
+}
+
 
 
 
