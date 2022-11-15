@@ -256,7 +256,26 @@ color: white;
 font-size: 18px;
 align-items: center;
 }
+.g3button{
+    text-align: center;
+}
+.group-4{
+    /* height: 855px;
+    width: 1380px; */
+    background-color: #0f568a;
+    margin: 0 auto;
+}
 
-
-
+.who{
+    font-size: 26px;
+letter-spacing: -1px;
+line-height: 44px;
+color: #e9e8d9;
+font-weight: 500;
+font-family: "DM Sans";
+text-align: center;
+}
+.smm{
+    position:absolute;
+}
 
