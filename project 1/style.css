@@ -258,24 +258,70 @@ align-items: center;
 }
 .g3button{
     text-align: center;
+    margin-bottom: 70px;
 }
 .group-4{
-    /* height: 855px;
-    width: 1380px; */
+     /* height: 855px; */
+    width: 1380px;
     background-color: #0f568a;
     margin: 0 auto;
 }
-
 .who{
-    font-size: 26px;
+ font-size: 26px;
 letter-spacing: -1px;
 line-height: 44px;
 color: #e9e8d9;
 font-weight: 500;
 font-family: "DM Sans";
 text-align: center;
+padding-top: 100px;
+
 }
 .smm{
     position:absolute;
+    right: 32px;
+    top: -57px;
+}
+.smm_txt{
+    position: absolute;
+    right: 77px;
+    top:-29px ;
+    font-size: 33px;
+letter-spacing: -1px;
+line-height: 107px;
+color: #eae8d7;
+font-weight: 400;
+font-family: "DM Sans";
+text-align: center;
+rotate: 25deg;
+
+}
+.Redefining{
+    font-size: 107px;
+    letter-spacing: -4px;
+    line-height: 96px;
+    color: #e9e8d9;
+    font-weight: 400;
+    font-family: "Old Standard TT";
+    text-align: center;
+    width: 733px;
+    padding-top: 110px;  
+    margin: 0 auto;  
+}
+.break3{
+    width: 1380px;
+border: 1px solid #e8e7d9;
+margin-top: 40px ;
+margin-bottom: 50px;
+}
+.lorem{
+    width:650px;
+font-size: 16px;
+color: #e9e8d9;
+font-weight: 400;
+font-family: "DM Sans";
+text-align: center;
+margin:0 auto;
+padding-bottom: 171px;
 }
 
