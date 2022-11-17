@@ -453,3 +453,38 @@ width: 130px;
     text-align: center;
     margin-top: 40px;
 }
+.break6{
+    margin: 0 auto;
+    width: 1380px;
+    border: 1px solid  #355e98  
+}
+.group-7{
+    margin: 0 auto;
+    width: 1380px;
+}
+.smm2{
+    right: 132px;
+    top: -80px;
+}
+.smm2-text{
+    rotate: 25deg;
+    font-size: 27px;
+letter-spacing: -1px;
+color: #eae8d7;
+font-weight: 400;
+font-family: "DM Sans";
+text-align:center;
+right: 149px;
+width:  137px;
+top: -22px;
+}
+.Testi{
+    font-size: 107px;
+letter-spacing: -4px;
+line-height: 96px;
+color: #115c90;
+font-weight: 400;
+font-family: "Old Standard TT";
+margin-top: 115px;
+margin-left: 131px;
+}
