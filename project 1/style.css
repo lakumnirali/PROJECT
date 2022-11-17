@@ -324,4 +324,62 @@ text-align: center;
 margin:0 auto;
 padding-bottom: 171px;
 }
+.group-5{
+    width: 1380px;
+    margin: 0 auto;
+    border-bottom:1px solid #0b5e98;
 
+}
+.g5part{
+    display: flex;
+}
+.Process{
+    width: 701px;
+border-right: 1px solid #115c90;
+padding-right: 190px;
+text-align:left;
+}
+.tp-text{
+    font-size: 107px;
+    letter-spacing: -4px;
+    line-height: 96px;
+    color: #115c90;
+    font-weight: 400;
+    font-family: "Old Standard TT";
+    text-align: center;
+    /* margin: 140px 182px 75px 1px; */
+    margin-left: -49px;
+    margin-right: 75px;
+}
+.Strategy{
+    font-size: 26px;
+letter-spacing: -1px;
+line-height: 44px;
+color: #355e98;
+font-weight: 500;
+font-family: "DM Sans";
+margin: 60px 132px 17px 130px;
+}
+.li-text{
+font-size: 16px;
+color: #355e98;
+font-weight: 400;
+font-family: "DM Sans";
+/* text-align: left; */
+width: 515px;
+text-align: justify;
+/* padding: 37px 0px 37px 0px; */
+margin:20px 0px 17px 130px  ;
+}
+.g5img{
+width: 474px;
+/* overflow-x:visible; */
+}
+.imgg5{
+    /* overflow-x: visible; */
+    width: 679px;
+}
+.g5bottom{
+ border-bottom: 1px solid #0b5e98;
+ width: 830px;
+}
