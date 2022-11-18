@@ -464,7 +464,7 @@ width: 130px;
 }
 .smm2{
     right: 132px;
-    top: -80px;
+    top: -192px;
 }
 .smm2-text{
     rotate: 25deg;
@@ -476,7 +476,7 @@ font-family: "DM Sans";
 text-align:center;
 right: 149px;
 width:  137px;
-top: -22px;
+top: -139px;
 }
 .Testi{
     font-size: 107px;
@@ -487,4 +487,49 @@ font-weight: 400;
 font-family: "Old Standard TT";
 margin-top: 115px;
 margin-left: 131px;
+}
+.divg7{
+    width: 1084px;
+    display: flex;
+    margin-top: 77px;
+}
+.licon{
+    font-size: 107px;
+    letter-spacing: -4px;
+    line-height: 96px;
+    color: #115c90;
+    font-weight: 400;
+    font-family: "Old Standard TT";
+    margin-left: 140px;
+    /* margin-bottom: 0px; */
+    /* display:inline-block; */
+} 
+.Textg7{
+    width: 885px;
+    /* height: 255px; */
+    font-size: 33px;
+    letter-spacing: -1px;
+    color: #115c90;
+    font-weight: 400;
+    font-family: "Old Standard TT";
+    /* text-align: left; */
+    margin-left: 20px;
+    margin-top: 18px;
+    text-align: justify;
+}
+.Genevieve{
+    font-size: 26px;
+    letter-spacing: -1px;
+    line-height: 44px;
+    color: #355e98;
+    font-weight: 500;
+    font-family: "DM Sans";
+    margin-top: 55px;
+    margin-left: 200px;
+}
+.breakg7{
+    width: 1380px;
+margin: 0 auto;
+border: 1px solid #0b5e98;
+margin-top: 125px;
 }
