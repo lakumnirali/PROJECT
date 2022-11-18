@@ -533,3 +533,75 @@ margin: 0 auto;
 border: 1px solid #0b5e98;
 margin-top: 125px;
 }
+.group-8{
+    margin: 0 auto;
+    width: 1380px;
+    /* display: flex;   */
+}
+ .maincon8{
+
+}
+.cong8-a{
+    width: 50%;
+}
+.Love{
+    font-size: 107px;
+letter-spacing: -4px;
+line-height: 96px;
+color: #115c90;
+font-weight: 400;
+font-family: "Old Standard TT";
+text-align: center;
+margin-top: 283px;
+margin-left: 15px;
+width: 453px;
+}
+.twenty{
+    font-size: 33px;
+letter-spacing: -1px;
+line-height: 30px;
+color: #355e98;
+font-weight: 400;
+font-family: "Old Standard TT";
+text-align: center;
+/* margin-top: 415px;
+margin-left: 15px; */
+top: 150px;
+ left: 27px;
+}
+.twentyone{
+    font-size: 33px;
+letter-spacing: -1px;
+line-height: 30px;
+color: #355e98;
+font-weight: 400;
+font-family: "Old Standard TT";
+text-align: center;
+/* margin-top: 415px;
+margin-right: 128px; */
+top: 150px;
+right: 132px;
+}
+.textg8{
+    width: 470px;
+/* height: 248px; */
+font-size: 16px;
+color: #355e98;
+font-weight: 400;
+font-family: "DM Sans";
+text-align:justify;
+margin-top: 35px;
+}
+.cong8-b{
+    width: 50%;
+    margin-left: 50px;
+}
+.aboutYou{
+    font-size: 48px;
+letter-spacing: -2px;
+line-height: 111px;
+color: #115c90;
+font-weight: 400;
+font-family: "Old Standard TT";
+margin-top: 183px;
+}
