@@ -598,7 +598,7 @@ margin-right: 128px; */
   /* margin-bottom: 40px; */
 }
 .g8underline {
-  width: 490px;
+  width: 550px;
   font-size: 16px;
   letter-spacing: -1px;
   line-height: 27px;
@@ -629,14 +629,26 @@ margin-bottom: 27px;
 }
 .butg9{
     font-size: 15px;
-letter-spacing: 1px;
+/* letter-spacing: 1px; */
 line-height: 37px;
 color: #355e98;
 font-weight: 500;
 font-family: "DM Sans";
 text-align: center;
 border-radius: 20px;
-width: 176px;
+width: 173px;
 border-color: #355e98;
-margin: 7px;
+margin: 6px;
+}
+.buttg9{
+    font-size: 15px;
+letter-spacing: -1px;
+line-height: 37px;
+color: #eae8d7;
+font-weight: 500;
+font-family: "DM Sans";
+text-align: center;
+border-radius:20px;
+color: #355e98;
+width: 126px;
 }
