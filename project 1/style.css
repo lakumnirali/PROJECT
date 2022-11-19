@@ -533,7 +533,7 @@ body {
 }
 .cong8-a {
   width: 50%;
-  border-right: 1px solid black;
+  border-right: 1px solid  #355e98;
 }
 .Love {
   font-size: 107px;
@@ -627,7 +627,7 @@ font-weight: 500;
 font-family: "DM Sans";
 margin-bottom: 27px;
 }
-.butg9{
+.butg8{
     font-size: 15px;
 /* letter-spacing: 1px; */
 line-height: 37px;
@@ -640,7 +640,7 @@ width: 173px;
 border-color: #355e98;
 margin: 6px;
 }
-.buttg9{
+.buttg8{
     font-size: 15px;
 letter-spacing: -1px;
 line-height: 37px;
@@ -649,6 +649,54 @@ font-weight: 500;
 font-family: "DM Sans";
 text-align: center;
 border-radius:20px;
-color: #355e98;
+background-color: #355e98;
 width: 126px;
+border-color:transparent;
+margin-top: 42px;
+margin-bottom: 159px;
+}
+.group-9{
+    width: 1380px;
+    background-color: #0d4e81;
+    margin: 0 auto;
+}
+.g9a{
+  display: flex;
+  padding-top: 135px;
+  padding-bottom: 25px;
+}
+.top4{
+font-size: 26px;
+letter-spacing: -1px;
+line-height: 44px;
+color: #e9e8d9;
+font-weight: 500;
+font-family: "DM Sans";     
+width: 25%;
+}
+.breakg9{
+  width: 1380px;
+  margin: 0 auto;
+  background-color: #a3cce8;
+}
+.g9b{
+  display: flex;
+  padding-top: 25px;
+  padding-bottom: 91px;
+}
+.bottom4{
+  width: 25%;
+font-size: 16px;
+color: #e9e8d9;
+font-weight: 400;
+font-family: "DM Sans";
+}
+.end{
+  font-size: 16px;
+letter-spacing: -1px;
+line-height: 27px;
+color: #e9e8d9;
+font-weight: 500;
+font-family: "DM Sans";
+padding-bottom: 85px;
 }
