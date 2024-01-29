@@ -1,0 +1,127 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "users": [
+    {
+      "username": "admin",
+      "password": "1",
+      "email": "admin@gmail.com",
+      "mobile": "786876786687",
+      "gender": "male",
+      "role_id": 1,
+      "id": 0
+    },
+    {
+      "username": "niru",
+      "mobile": "691",
+      "email": "gajefa@mailinator.com",
+      "password": "1",
+      "role_id": 1,
+      "id": 2
+    },
+    {
+      "username": "test",
+      "mobile": "584",
+      "email": "miniwogi@mailinator.com",
+      "password": "1",
+      "role_id": 2,
+      "id": 3
+    },
+    {
+      "username": "hekegycoja",
+      "mobile": "834",
+      "email": "kylas@mailinator.com",
+      "password": "Distinctio Neque co",
+      "role_id": 2,
+      "id": 5
+    },
+    {
+      "username": "tikos",
+      "mobile": "127",
+      "email": "ricyh@mailinator.com",
+      "password": "Voluptas aliquid lab",
+      "role_id": 2,
+      "id": 6
+    },
+    {
+      "id": 7
+    },
+    {
+      "username": "bidepa",
+      "mobile": "757",
+      "email": "terun@mailinator.com",
+      "password": "Qui nulla laborum T",
+      "role_id": 2,
+      "id": 11
+    },
+    {
+      "username": "favyzikex",
+      "mobile": "byvycyxyr",
+      "email": "sofimuq@mailinator.com",
+      "password": "Enim nesciunt et mo",
+      "role_id": 3,
+      "id": 12
+    },
+    {
+      "username": "pazoxirumi",
+      "mobile": "255",
+      "email": "mafufuqud@mailinator.com",
+      "password": "Dolorum ullam nemo s",
+      "role_id": 2,
+      "id": 13
+    },
+    {
+      "id": 15,
+      "username": "nikhil",
+      "email": "pafyxih@mailinator.com",
+      "password": "Autem sed qui culpa "
+    },
+    {
+      "username": "nikhil",
+      "mobile": "9408850307``",
+      "email": "hello@mail.com",
+      "password": "123",
+      "role_id": 2,
+      "id": 16
+    },
+    {
+      "username": "nikhil",
+      "mobile": "9408850306",
+      "email": "nikhil@gmail.com",
+      "password": "2214",
+      "role_id": 3,
+      "id": 17
+    },
+    {
+      "username": "rizaryv",
+      "mobile": "373",
+      "email": "gypi@mailinator.com",
+      "password": "Eius eos molestiae ",
+      "role_id": 2,
+      "id": 18
+    },
+    {
+      "username": "niru",
+      "mobile": "6354060865",
+      "email": "nn@rangaduya",
+      "password": "1",
+      "role_id": 2,
+      "id": 19
+    }
+  ]
+}
